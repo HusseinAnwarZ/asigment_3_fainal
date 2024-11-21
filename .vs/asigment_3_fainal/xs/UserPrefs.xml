@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{77DF9D6B-373E-4A19-810E-6E289F267CB0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="asigment_3_fainal/Program.cs">
+    <Files>
+      <File FileName="asigment_3_fainal/Program.cs" Line="18" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asigment_3_fainal" expanded="True">
+            <Node name="asigment_3_fainal" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.asigment__3__fainal PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

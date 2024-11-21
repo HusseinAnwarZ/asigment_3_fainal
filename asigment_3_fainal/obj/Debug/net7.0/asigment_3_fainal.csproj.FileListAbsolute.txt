@@ -1,0 +1,15 @@
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/bin/Debug/net7.0/asigment_3_fainal
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/bin/Debug/net7.0/asigment_3_fainal.deps.json
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/bin/Debug/net7.0/asigment_3_fainal.runtimeconfig.json
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/bin/Debug/net7.0/asigment_3_fainal.dll
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/bin/Debug/net7.0/asigment_3_fainal.pdb
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.csproj.AssemblyReference.cache
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.AssemblyInfoInputs.cache
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.AssemblyInfo.cs
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.csproj.CoreCompileInputs.cache
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.dll
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/refint/asigment_3_fainal.dll
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.pdb
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/asigment_3_fainal.genruntimeconfig.cache
+/Users/ra/Projects/asigment_3_fainal/asigment_3_fainal/obj/Debug/net7.0/ref/asigment_3_fainal.dll
